@@ -7,6 +7,7 @@ Discord bot to handle member on-boarding process and other administrative proces
 Node.js
 Discord.js
 
+## More:
 ![Blender Icon](https://github.com/blue-putty/blenderBot/blob/main/branding/render.png?raw=true)
 
-Icon designed in Blender
+*Icon designed in Blender, an open-source 3D software*
